@@ -10,7 +10,7 @@
 <!-- ![ANR logo](/img/ANR-logo-2021-sigle.jpg) -->
 
 <p align="center">
-  <img align="center" width="250" src="/img/ANR-logo-2021-sigle.jpg">
+  <img align="center" width="250" src="ANRMoMoPlasm/img/ANR-logo-2021-sigle.jpg">
 </p>
 
 <!--
