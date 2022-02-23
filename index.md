@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://anrmomoplasm.github.io/ANRMoMoPlasm/index.md"> HOME </a>
+  <a href=""> PEOPLE </a>
+  <a href=""> PUBLICATIONS </a>
+</p>
+
 ## News
 
 **Feb. 2021:** Abir KEBABSA started her 6 month master internship in the group. Welcome Abir!
